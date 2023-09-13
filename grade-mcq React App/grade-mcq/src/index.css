@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: 'B Nazanin', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input {
+  font-family: 'B Nazanin', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+@font-face {
+  font-family: 'BNazanin';
+  src: local('BNazanin'), url(./fonts/BNazanin.TTF) format('truetype');
+}
+
+@font-face {
+  font-family: 'BNazanin';
+  font-weight: 900;
+  src: local('BNazanin'), url(./fonts/BNazanin-Bold.TTF) format('truetype');
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

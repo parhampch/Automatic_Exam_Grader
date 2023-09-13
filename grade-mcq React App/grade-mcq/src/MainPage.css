@@ -1,0 +1,57 @@
+.middle-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.padding {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.middle-box {
+    padding-top: 5%;
+    padding-bottom: 4%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 9%;
+    margin-bottom: 15%;
+    width: 50%;
+    background-color: beige;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+
+.welcome-text {
+    font-size: 1.5rem;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+.welcome-button {
+    font-family: 'BNazanin', Tahoma, sans-serif;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #2a79b6;
+    font-size: 1.5rem;
+    font-weight: bold;
+    width: 45%;
+    height: 50px;
+    margin-bottom: 5%;
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98d25899.css",
+    "main.js": "/static/js/main.f97dfa2b.js",
+    "static/js/787.5471833d.chunk.js": "/static/js/787.5471833d.chunk.js",
+    "static/media/BNazanin.TTF": "/static/media/BNazanin.d7478a9ecad2d8496d98.TTF",
+    "static/media/BNazanin-Bold.TTF": "/static/media/BNazanin-Bold.234e90c54d5b365c8990.TTF",
+    "index.html": "/index.html",
+    "main.98d25899.css.map": "/static/css/main.98d25899.css.map",
+    "main.f97dfa2b.js.map": "/static/js/main.f97dfa2b.js.map",
+    "787.5471833d.chunk.js.map": "/static/js/787.5471833d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98d25899.css",
+    "static/js/main.f97dfa2b.js"
+  ]
+}
